@@ -61,6 +61,18 @@
 		"slug": "tim-worstall"
 	},
 	{
+		"name": "Mencius Moldbog",
+		"title": "Neoreactionary political theorist",
+		"article": "How Bitcoin dies",
+		"date": "January 23, 2013",
+		"source": "Unqualified Reservations",
+		"excerpt": "A DOJ indictment is unsealed which names everyone on Planet Three who operates, or has ever operated, or perhaps who has ever even breathed on, a BTC/USD exchange, as a criminal defendant (...)  The BTC/USD price falls to 0 and remains there.",
+		"price": "$17.50",
+		"link": "http://unqualified-reservations.blogspot.com.br/2013/01/how-bitcoin-dies.html",
+		"waybacklink": "",
+		"slug": "mencius-moldbug"
+	},
+	{
 		"name": "Patrik Korda",
 		"title": "Amateur trader",
 		"article": "Bitcoin Bubble 2.0",
